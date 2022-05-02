@@ -46,7 +46,7 @@
 <p>
   Tela alcançada ao clicar no botão "Configurações". Para começar a utilizar o aplicativo, obrigatoriamente o usuário precisará acessar esta tela para definir suas configurações iniciais. 
   Os primeiros campos servem para o usuário definir quantos copos, ou outro recipiente, ele vai tomar por dia e quantos mililitros vão possuir neste recipiente; respectivamente.
-  Na parte de baixo das configurações, o usuário será capaz de definir os períodos do dia em que ele vai receber uma notificação, lembrando que ele deve beber água. Além da opção de notificação, o usuário poderá alterar o "Thema" da aplicação, possibilitando deixar ela mais clara ou mais escura.
+  Na parte de baixo das configurações, o usuário será capaz de definir os períodos do dia em que ele vai receber uma notificação, lembrando que ele deve beber água.
 </p>
 
 ### Tela 3 - Progresso do dia de Hoje
@@ -88,21 +88,25 @@ A aplicação armazena e usa de forma relevante dados complexos do usuário?
 
 <code>R: Sim, ela usa.</code>
   
-A aplicação possui um manifesto para instalação no dispositivo do usuário? 
+A aplicação foi desenvolvida com o React?
 
-<code>R: Sim, ela possui.</code>
-  
-A aplicação possui um service worker que permite o funcionamento off-line? 
+<code>R: Sim, ela foi.</code>
 
-<code>Sim, ela possui.</code>
-  
+A aplicação contém pelo menos dois componentes React além do componente principal?
+
+<code>R: Sim, ela contém.</code>
+
 O código da minha aplicação possui comentários explicando cada operação? 
 
 <code>R: Não, o aplicativo não será uma aplicação muito complexa. Acabou que não coloquei explicações no código, tendo em vista que ele não possui complexidades, isto acabaria por "poluir" demais o código da aplicação e sem necessidade. Cada parte do código é possível de analisar o que foi escrito e entender como foi feito.</code>
 
 A aplicação está funcionando corretamente? 
 
-  <code>R: Ainda não. Eu não tenho conhecimentos de programação web, então estou tendo bastante dificuldade para desenvolver a aplicação. Estou contando com a ajuda de um colega para conseguir realizar as partes mais avançadas do código, o que dificultada bastante no seu desenvolvimento. Estive tentando pesquisar sobre as mecânicas sozinho para conseguir desenvolver mais do código, porém, não encontrava o que precisa e não conseguia fazer sozinho. Acabou que o colega que estava me ajudando, teve alguns problemas e ficou um tempo sem conseguir me ajudar.</code>
+  <code>R: Não. Eu não tenho conhecimentos de programação web, então estou tendo bastante dificuldade para desenvolver a aplicação. Estou contando com a ajuda de um colega para conseguir realizar as partes mais avançadas do código, o que dificultada bastante no seu desenvolvimento. Estive tentando pesquisar sobre as mecânicas sozinho para conseguir desenvolver mais do código, porém, não encontrava o que precisa e não conseguia fazer sozinho. Acabou que o colega que estava me ajudando, teve alguns problemas e ficou um tempo sem conseguir me ajudar.</code>
+
+A aplicação está completa?
+
+<code>R: Sim, ela está.</code>
 
 <a name="download" />
 <h2 align="center">Como Baixar?</h2>

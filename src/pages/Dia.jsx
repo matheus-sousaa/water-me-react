@@ -34,6 +34,7 @@ function Dia() {
       </div>
       <p>Você já tomou <span id="cupsNumber">{drinkedQuantity}</span> copos hoje:</p>
       <div className="allCups">
+        <CupsList id="emptyCups" quantity={drinkedQuantity}  />
       <ul id="emptyCups">
         {(new Array(drinkedQuantity).fill(drinkedQuantity)).map(item => <img src="./assets/copo-vazio.svg" />)}
       </ul>
